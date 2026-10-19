@@ -1,0 +1,22 @@
+---
+title: "Get in touch"
+
+about:
+  template: solana
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/augustinas-%C5%A1ilal%C4%97-373359297/
+    - text: "{{< iconify fa6-brands square-bluesky >}} Bluesky"
+      href: https://bsky.app/profile/augustsilale.bsky.social
+---
+
+I look forward to hearing from prospective graduate students and postdocs.
+
+You can contact me on social media or by email:
+
+augustinas.silale \[at\] newcastle \[dot\] ac \[dot\] uk
+
+augustinas.silale \[at\] gmail \[dot\] com
+
+![](./molecule.png)

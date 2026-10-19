@@ -1,0 +1,22 @@
+---
+title: "Welcome to the Silale lab website!"
+
+about:
+  template: jolla
+  image: utilisome.gif
+  links:
+    - text: "{{< iconify academicons orcid-square >}} ORCiD"
+      href: https://orcid.org/0000-0003-3338-2087
+    - text: "{{< iconify academicons google-scholar-square >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=FDDB718AAAAJ&hl=en
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/augustinas-%C5%A1ilal%C4%97-373359297/
+
+    - text: "{{< iconify fa6-brands square-bluesky >}} Bluesky"
+      href: https://bsky.app/profile/augustsilale.bsky.social
+
+---
+
+We use structural biology and complementary functional approaches to elucidate fundamental mechanisms happening inside the gut. 
+

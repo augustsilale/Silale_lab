@@ -1,0 +1,63 @@
+---
+title: "Research outputs"
+---
+
+-----
+
+## Preprints
+
+-----
+
+Ross J, Hoopman MJ, Küllmer F, Al-Jourani O, Silale A, Osman MM, Chen Z, Bridges HR, Garnham KJ, Morland C, Reyre JL, Layton AJ, Turkenburg J, Hart S, Solovyova A, Porter A, Baslé A, Codée JDC, Williams SJ, Moynihan PJ, Overkleeft HS, Blaza JN, Lowe EC. [Functional Differentiation of GH172 Arabinofuranosidases Through Divergent Quaternary Structures. ](https://doi.org/10.64898/2026.08.13.744632) *bioRxiv*, 2026.
+
+\ \ 
+
+## Peer-reviewed Publications
+
+-----
+
+### 2026
+
+Feasey M, Silale A, Baslé A, van den Berg B. [Structural and functional characterisation of the dextran utilisome from *Bacteroides thetaiotaomicron*.](https://doi.org/10.1016/j.yjsbx.2026.100153) *Journal of Structural Biology: X* 14, 100153.
+
+__Silale A^#^__, Soo YL, Mark H, Motz RN, Baslé A, Nolan EM, van den Berg B^#^. [Structural basis of iron piracy by human gut *Bacteroides*.](https://doi.org/10.1073/pnas.2528036123) *Procedings of the National Academy of Sciences of the United States of America* 123(18), e2528036123. __^#^Co-corresponding author.__ 
+
+### 2025
+
+__Silale A^§^__, Madej M^§^, Mikruta K, Frey AM, Hart AJ, Baslé A, Scavenius C, Enghild JJ, Trost M, Hirt RP, van den Berg B. [Structure of a distinct β-barrel assembly machinery complex in the Bacteroidota.](https://doi.org/10.1038/s41564-025-02132-2) *Nature Microbiology* 10, 2845-2859. __^§^Co-first author.__ 
+
+Parr RJ, Santin YG, Ratkevičiūte G, Caulton SG, Radford P, Jenkins M, Doyle MT, Mead L, Silale A, van den Berg B, Knowles TJ, R Sockett E, Stansfeld PJ, Laloux G, Lovering AL [A porin-like protein used by bacterial predators defines a wider lipid-trapping superfamily.](https://doi.org/10.1038/s41467-025-61633-0) *Nature Communications* 16, 6213. 
+
+### 2023
+
+__Silale A__, Zhu Y, Witwinowski J, Smith RE, Newman KE, Bhamidimarri SP, Baslé A, Khalid S, Beloin C, Gribaldo S, van den Berg B. [Dual function of OmpM as outer membrane tether and nutrient uptake channel in diderm Firmicutes.](https://doi.org/10.1038/s41467-023-42601-y) *Nature Communications* 14, 7152. 
+ 
+__Silale A^#^__, van den Berg B^#^. [TonB-Dependent Transport Across the Bacterial Outer Membrane.](https://doi.org/10.1146/annurev-micro-032421-111116) *Annual Review of Microbiology* 77, 67–88. __^#^Co-corresponding author.__
+
+Abellon-Ruiz J, Jana K, __Silale A__, Frey AM,  Baslé A, Trost M, Kleinekathöfer U, van den Berg B. [BtuB TonB-dependent transporters and BtuG surface lipoproteins form stable complexes for vitamin B12 uptake in gut *Bacteroides*.](https://doi.org/10.1038/s41467-023-40427-2) *Nature Communications* 14, 4714. 
+ 
+White JBR^§^, __Silale A^§^__, Feasey M, Heunis T, Zhu Y, Zheng H, Gajbhiye A, Firbank S, Baslé A, Trost M, Bolam DN, van den Berg B, Ranson NA. [Outer membrane utilisomes mediate glycan uptake in gut Bacteroidetes.](https://doi.org/10.1038/s41586-023-06146-w) *Nature* 618, 583–589. __^§^Co-first author.__  
+
+### 2022
+
+van den Berg B, __Silale A__, Baslé A, Brandner AF, Mader SL, Khalid S. [Structural basis for host recognition and superinfection exclusion by bacteriophage T5.](https://doi.org/10.1073/pnas.2211672119) *PNAS* 119(42):e2211672119.  
+
+### 2021
+
+__Silale A__, Lea SM, Berks BC. [The DNA transporter ComEC has metal-dependent nuclease activity that is important for natural transformation.](https://doi.org/10.1111/mmi.14720) *Molecular Microbiology* 116, 416-426.  
+ 
+Hennell James R, Deme JC, Kjӕr A, Alcock F, __Silale A__, Lauber F, Johnson S, Berks BC, Lea SM. [Structure and mechanism of the proton-driven motor that powers type 9 secretion and gliding motility.](https://doi.org/10.1038/s41564-020-00823-6) *Nature Microbiology* 6, 221–233.  
+
+### 2018
+
+Paschke P, Knecht DA, __Silale A__, Traynor D, Williams TD, Thomason PA, Insall RH, Chubb JR, Kay RR & Veltman DM. [Rapid and efficient genetic engineering of both wild type and axenic strains of Dictyostelium discoideum.](http://dx.plos.org/10.1371/journal.pone.0196809) *PLoS One* 13: e0196809. 
+
+\ \ 
+
+## Structures
+
+-----
+
+Atomic coordinates authored at the [Protein Data Bank](https://www.rcsb.org/search?request=%7B%22query%22%3A%7B%22type%22%3A%22group%22%2C%22nodes%22%3A%5B%7B%22type%22%3A%22group%22%2C%22nodes%22%3A%5B%7B%22type%22%3A%22group%22%2C%22nodes%22%3A%5B%7B%22type%22%3A%22terminal%22%2C%22service%22%3A%22text%22%2C%22parameters%22%3A%7B%22attribute%22%3A%22audit_author.name%22%2C%22operator%22%3A%22exact_match%22%2C%22value%22%3A%22Silale%2C%20A.%22%7D%7D%5D%2C%22logical_operator%22%3A%22and%22%7D%5D%2C%22logical_operator%22%3A%22and%22%2C%22label%22%3A%22text%22%7D%5D%2C%22logical_operator%22%3A%22and%22%7D%2C%22return_type%22%3A%22entry%22%2C%22request_options%22%3A%7B%22paginate%22%3A%7B%22start%22%3A0%2C%22rows%22%3A25%7D%2C%22results_content_type%22%3A%5B%22experimental%22%5D%2C%22sort%22%3A%5B%7B%22sort_by%22%3A%22score%22%2C%22direction%22%3A%22desc%22%7D%5D%2C%22scoring_strategy%22%3A%22combined%22%7D%2C%22request_info%22%3A%7B%22query_id%22%3A%221cbda88e5a8144c499a3ea81e3230a1a%22%7D%7D "RCSB PDB").
+
+Electron microscopy volumes authored at the [Electron Microscopy Data Bank](https://www.ebi.ac.uk/emdb/search/?q=author:%22Silale%20A%22 "EMDB").
